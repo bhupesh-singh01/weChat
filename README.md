@@ -1,5 +1,5 @@
 #weChat
-Here is a GitHub README description for your WeChat-like application:
+WeChat application:
 
 ---
 
